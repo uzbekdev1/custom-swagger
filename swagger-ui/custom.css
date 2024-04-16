@@ -1,0 +1,45 @@
+﻿.topbar {
+    background-color: #8668EB !important;
+}
+
+#swagger-ui {
+    background-color: white;
+}
+
+.topbar-wrapper .link img {
+    content: url("../icon.png");
+}
+
+.topbar-wrapper span {
+    visibility: hidden;
+}
+
+.topbar-wrapper .link:after {
+    content: 'YuzPay API';
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label select {
+    border: none !important;
+}
+
+.information-container .title span {
+    visibility: hidden;
+}
+
+.information-container .link span {
+    visibility: hidden;
+}
+
+.swagger-ui .scheme-container {
+    box-shadow: none;
+    padding: 0;
+}
+
+.opblock-tag-section:hover {
+    background-color: white;
+}
+
+.swagger-ui .info {
+    margin-top: 30px !important;
+    margin-bottom: 0 !important;
+}
